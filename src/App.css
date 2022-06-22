@@ -1,0 +1,32 @@
+.carousel-inner img {
+  width: 100%;
+}
+
+.app {
+  position: relative;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #ee1d23;
+}
+
+.navbar-center {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  color: rgb(243, 243, 243);
+}
+
+.navbarnya {
+  background-color: rgba(0, 0, 0, 0.1);
+}
